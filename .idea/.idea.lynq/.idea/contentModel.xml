@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ilya\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ilya\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_lynq.-1625624912.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ilya\RiderProjects\lynq" t="IncludeFlat">
+      <e p="lynq" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="City.cs" t="Include" />
+        <e p="Country.cs" t="Include" />
+        <e p="lynq.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="lynq.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Tablets.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="lynq.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

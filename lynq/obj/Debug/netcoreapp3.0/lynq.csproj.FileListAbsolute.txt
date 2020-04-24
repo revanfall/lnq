@@ -1,0 +1,11 @@
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.exe
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.deps.json
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.runtimeconfig.json
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.runtimeconfig.dev.json
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.dll
+C:\Users\Ilya\RiderProjects\lynq\lynq\bin\Debug\netcoreapp3.0\lynq.pdb
+C:\Users\Ilya\RiderProjects\lynq\lynq\obj\Debug\netcoreapp3.0\lynq.csprojAssemblyReference.cache
+C:\Users\Ilya\RiderProjects\lynq\lynq\obj\Debug\netcoreapp3.0\lynq.AssemblyInfoInputs.cache
+C:\Users\Ilya\RiderProjects\lynq\lynq\obj\Debug\netcoreapp3.0\lynq.AssemblyInfo.cs
+C:\Users\Ilya\RiderProjects\lynq\lynq\obj\Debug\netcoreapp3.0\lynq.dll
+C:\Users\Ilya\RiderProjects\lynq\lynq\obj\Debug\netcoreapp3.0\lynq.pdb
